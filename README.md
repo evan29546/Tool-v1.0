@@ -1,2 +1,2 @@
 # tool
-python project that started as calculator
+python project that started as a calculator
